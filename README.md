@@ -6,8 +6,7 @@ A standard procedure for evaluating AI models and systems, and the record of app
 
 ---
 
-
-## What this is
+## What this is:
 
 Two things will live here.
 
