@@ -1,0 +1,33 @@
+# --- Working drafts: not for publication ---
+drafts/
+
+# --- Copyrighted reference material ---
+*.pdf
+!reference/My_Handwritten_Notes_Chapter4.pdf
+
+# --- Stray duplicates ---
+*- Copy.*
+*(2).*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.ipynb_checkpoints/
+
+# --- Model weights and datasets (live with the system under test, not here) ---
+*.pth
+*.pt
+*.onnx
+*.ckpt
+
+# --- Secrets ---
+.env
+*.env
+
+# --- OS / editor ---
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
